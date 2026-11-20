@@ -1,6 +1,6 @@
 # Networkwalks-B084-Week3|Password-Cracking-with-John-the-Ripper-JR-and-Networkwalks-Tools-
 
-**W2-PM-FINAL  |  CYBERSECURITY  |  NETWORKWALKS**
+**W3-PM1 & W3-PM2  |  CYBERSECURITY  |  NETWORKWALKS**
 
 ## 📌 Project Overview
 
