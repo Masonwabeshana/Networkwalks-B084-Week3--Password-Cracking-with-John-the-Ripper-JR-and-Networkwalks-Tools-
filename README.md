@@ -33,4 +33,11 @@ important for protection.
 The main objectives of this project are to:
 
 - Install John the ripper
-- 
+
+# 🪜 Lab Setup Procedure
+
+## Step 1. Install John the ripper 
+
+John the ripper was installed to 
+
+**Tool:** John th ripper 
