@@ -57,7 +57,7 @@ The lab provides an isolated, controlled environment for cybersecurity learning 
 
 Step 1 - Install John the ripper (JTR) and john 
 
-John the ripper (JTR) was downloaded from the offical website and installed to a windows pc. Johnny GUI was also downloaded from the official website. 
+Both John the ripper (JTR) and johnny GUI were downloaded from the offical website, and installed into a windows pc. Johnny GUI acted as the GUI front-end for the johnny the ripper.
 
 
 
