@@ -28,7 +28,6 @@ The main objectives of this project are to:
 
 The purpose of this lab is to demonstrate how encrypted documents store passwords as hashes, how hashes are calculated, and how password-cracking tools like john the ripper can recover weak passwords from those hashes, to show why strong passwords are important.
 
- **Important:**
 
 
 
@@ -43,7 +42,7 @@ Both JTR and johnny GUI were downloaded from the offical website, and installed 
 
 Step 2- Use Networkwalks tools
 
-The encrypted PDF files were downloaded to Windows PC, uploaded to the networkwalks Hashing Calculator thash values, and those hashes were then loaded into the Networkwalks Password Cracker to recover passwords.
+The encrypted PDF files were downloaded to Windows PC, uploaded to the networkwalks Hashing Calculator to get their hash values, and those hashes were then loaded into the Networkwalks Password Cracker to recover passwords.
 
 
 **Tool:** John the ripper (JTR) , Johnny, networkwallks hash calculator and networkwalks password cracker & windows pc|
