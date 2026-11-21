@@ -29,10 +29,10 @@ This lab helps you understand how password cracking works step by step and why s
 important for protection.
 
 # Tasks completed
-WK3-PM1 : Pasword cracking with John the ripper (JTR) and john.
+WK3-PM1 : Password cracking with John the ripper (JTR) and john.
 
 
-WK3-PM2 : Pasword cracking using networkwalks tools ( password hash & password cracking)
+WK3-PM2 : Password cracking using networkwalks tools ( password hash & password cracking)
 
 ## Objectives
 
@@ -45,18 +45,20 @@ The main objectives of this project are to:
 
 The lab provides an isolated, controlled environment for cybersecurity learning with authorized security testing, turning theory into real hands-on skill.
 
+ **Important:** This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
 
 
 
 
 # Lab Setup Procedure
 
-# Step 1 - Install John the ripper (JTR) and john 
+Step 1 - Install John the ripper (JTR) and john 
 
 John the ripper was installed to 
 
 
-# Step 2- Use Nteworkwalks tools
+
+Step 2- Use Nteworkwalks tools
 
 
 
