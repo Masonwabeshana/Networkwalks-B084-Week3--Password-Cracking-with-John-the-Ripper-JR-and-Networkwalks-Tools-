@@ -63,6 +63,10 @@ Password for Encrypted PDF file 2
 ![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week3--Password-Cracking-with-John-the-Ripper-JR-and-Networkwalks-Tools-/blob/0065117fb8a16addfe744a509d1622a98d217637/password%202%20.png)
 
 
+Password for Encrypted PDF file 3
+
+![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week3--Password-Cracking-with-John-the-Ripper-JR-and-Networkwalks-Tools-/blob/e0d18cb67750a10a67eaa6e58421179fa1a49896/password%203.png)
+
 
 # Observations
 
