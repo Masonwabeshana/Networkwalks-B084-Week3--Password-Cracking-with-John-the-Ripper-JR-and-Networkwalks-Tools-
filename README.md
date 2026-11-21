@@ -20,8 +20,8 @@ The main objectives of this project are to:
 
 - Install John the ripper (JTR)
 - Install johnny GUI
-- To hash encrypted file documents using networkwalks hashing calculator
-- To crack passwords using networkwalks password 
+- To obtain hash value from encrypted PDF files using networkwalks hashing calculator
+- To crack passwords using networkwalks password cracker
 
 
 ## Purpose of the Lab
