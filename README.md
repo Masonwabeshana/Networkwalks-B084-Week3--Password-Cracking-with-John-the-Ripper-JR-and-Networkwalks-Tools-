@@ -28,7 +28,8 @@ The main objectives of this project are to:
 
 The purpose of this lab is to demonstrate how encrypted documents store passwords as hashes, how hashes are calculated, and how password-cracking tools like john the ripper can recover weak passwords from those hashes, to show why strong passwords are important.
 
-
+* This project is for educational purposes only, and all activities conducted are carefully guided by the authorised learning facility,
+* # Networkwalks
 
 
 
