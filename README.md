@@ -55,6 +55,8 @@ Using JTR
 
 PDF 1
 
+![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week3--Password-Cracking-with-John-the-Ripper-JR-and-Networkwalks-Tools-/blob/351eba11597f6d342309235696e188679b60683f/password%201%20.png)
+
 
 
 # Observations
