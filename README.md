@@ -2,7 +2,7 @@
 
 **W3-PM1 & W3-PM2  |  CYBERSECURITY  |  NETWORKWALKS**
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is about password cracking using John the ripper and networkwalks tools. 
 John the Ripper (JTR) is a popular password cracking tool used by security professionals to test how strong
@@ -28,13 +28,13 @@ from that hash. Both tools run in your web browser, so you do not need to instal
 This lab helps you understand how password cracking works step by step and why strong passwords are
 important for protection.
 
-## 🎯 Objectives
+## Objectives
 
 The main objectives of this project are to:
 
 - Install John the ripper
 
-# 🪜 Lab Setup Procedure
+# Lab Setup Procedure
 
 ## Step 1. Install John the ripper 
 
