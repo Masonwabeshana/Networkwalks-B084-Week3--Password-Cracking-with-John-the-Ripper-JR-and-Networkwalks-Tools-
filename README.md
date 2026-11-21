@@ -49,7 +49,7 @@ The encrypted PDF files were downloaded to windows PC, uploaded to the networkwa
 
 # Evidence collected
 
-A total of 6 PDF files had to be cracked. 3 were cracked using John the Ripper(JTR), and the other 3 were cracked using Networkwalks Hashing Calculator and Password Cracker. Find the screen shorts below.
+A total of 6 PDF files had to be cracked. 3 were cracked using John the Ripper(JTR), and the other 3 were cracked using Networkwalks Hashing Calculator and Networkwalks Password Cracker. Find the screen shorts below.
 
 Using John the ripper
 
