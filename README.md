@@ -46,9 +46,9 @@ The main objectives of this project are to:
 
 ## Purpose of the Lab
 
-The lab provides an isolated, controlled environment for cybersecurity learning with authorized security testing, turning theory into real hands-on skill.
+The purpose of this lab is to demonstrate how encrypted documents store passwords as hashes, how hashes are calculated, and how password-cracking tools like john the ripper can recover weak passwords from those hashes, to show why strong passwords are important.
 
- **Important:** This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
+ **Important:**
 
 
 
