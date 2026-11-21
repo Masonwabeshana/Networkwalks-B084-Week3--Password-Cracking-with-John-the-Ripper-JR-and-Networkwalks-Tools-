@@ -50,7 +50,7 @@ The lab provides an isolated, controlled environment for cybersecurity learning 
 
 
 
-# Lab Setup Procedure
+# Lab set up procedure
 
 Step 1 - Install John the ripper (JTR) and john 
 
