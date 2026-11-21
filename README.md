@@ -53,9 +53,14 @@ A total of 6 PDF files had to be cracked. 3 were cracked using John the Ripper(J
 
 Using John the ripper
 
-Locked PDF 1 - Password
+Locked PDF file 1 Password
 
 ![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week3--Password-Cracking-with-John-the-Ripper-JR-and-Networkwalks-Tools-/blob/351eba11597f6d342309235696e188679b60683f/password%201%20.png)
+
+
+Locked PDF file 2 Password
+
+
 
 
 
