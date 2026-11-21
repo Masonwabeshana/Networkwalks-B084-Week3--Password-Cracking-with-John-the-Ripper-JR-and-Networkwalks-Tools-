@@ -60,7 +60,7 @@ Locked PDF file 1 Password
 
 Locked PDF file 2 Password
 
-
+![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week3--Password-Cracking-with-John-the-Ripper-JR-and-Networkwalks-Tools-/blob/0065117fb8a16addfe744a509d1622a98d217637/password%202%20.png)
 
 
 
