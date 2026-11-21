@@ -29,16 +29,19 @@ This lab helps you understand how password cracking works step by step and why s
 important for protection.
 
 # Tasks completed
-WK3-PM1 : Password cracking with John the ripper (JTR) and john.
+WK3-PM1 : Password cracking with John the ripper (JTR) and johnny .
 
 
-WK3-PM2 : Password cracking using networkwalks tools ( password hash & password cracking)
+WK3-PM2 : Password cracking using networkwalks tools ( password hashing calculator & password cracking)
 
 ## Objectives
 
 The main objectives of this project are to:
 
-- Install John the ripper
+- Install John the ripper 
+- Install johnny GUI
+- To hash encrypted file documents using networkwalks hashing calculator
+- To crack passwords using networkwalks password 
 
 
 ## Purpose of the Lab
