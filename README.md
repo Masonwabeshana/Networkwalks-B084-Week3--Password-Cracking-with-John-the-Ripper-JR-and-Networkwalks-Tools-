@@ -18,7 +18,7 @@ WK3-PM2 : Password cracking using networkwalks tools ( password hashing calculat
 
 The main objectives of this project are to:
 
-- Install John the ripper 
+- Install John the ripper (JTR)
 - Install johnny GUI
 - To hash encrypted file documents using networkwalks hashing calculator
 - To crack passwords using networkwalks password 
