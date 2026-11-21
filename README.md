@@ -45,7 +45,7 @@ Step 2- Use networkwalks tools
 The encrypted PDF files were downloaded to windows PC, uploaded to the networkwalks Hashing Calculator to get their hash values, and those hashes were then loaded into the Networkwalks Password Cracker to recover passwords.
 
 
-**Tool:** John the ripper(JTR), Johnny, networkwallks hash calculator and networkwalks password cracker & windows pc|
+**Tools:** |John the ripper(JTR), Johnny, networkwallks hash calculator and networkwalks password cracker & windows pc|
 
 # Evidence collected
 
