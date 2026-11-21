@@ -61,8 +61,9 @@ Both John the ripper (JTR) and johnny GUI were downloaded from the offical websi
 
 
 
-Step 2- Use Nteworkwalks tools
+Step 2- Use Networkwalks tools
 
+The encrypted PDF files were downloaded to Windows PC, uploaded to the networkwalks Hashing Calculator thash values, and those hashes were then loaded into the Networkwalks Password Cracker to recover passwords.
 
 
 **Tool:** John the ripper (JTR) , Johnny, networkwallks hash calculator and networkwalks password cracker & windows pc|
