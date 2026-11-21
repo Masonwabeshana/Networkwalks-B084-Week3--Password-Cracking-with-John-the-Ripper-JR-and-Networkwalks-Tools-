@@ -49,6 +49,10 @@ The encrypted PDF files were downloaded to Windows PC, uploaded to the networkwa
 
 # Evidence collected
 
+Three locked PDF files and their recovered passwords
+
+PDF 1
+
 
 
 # Observations
