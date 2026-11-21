@@ -40,13 +40,29 @@ The main objectives of this project are to:
 
 - Install John the ripper
 
+
+## Purpose of the Lab
+
+The lab provides an isolated, controlled environment for cybersecurity learning with authorized security testing, turning theory into real hands-on skill.
+
+
+
+
+
 # Lab Setup Procedure
 
-## Step 1. Install John the ripper 
+# Step 1 - Install John the ripper (JTR) and john 
 
 John the ripper was installed to 
 
+
+# Step 2- Use Nteworkwalks tools
+
+
+
 **Tool:** John the ripper (JTR) , Johnny, networkwallks hash calculator and networkwalks password cracker & windows pc|
+
+
 
 
 
