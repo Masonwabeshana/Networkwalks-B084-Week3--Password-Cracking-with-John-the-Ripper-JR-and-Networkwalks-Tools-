@@ -4,7 +4,7 @@
 
 ##  Project Overview
 
-The project uses John the ripper (JTR), Johnny, and NetworkWalks to extract hashes from locked PDFs and crack them, to show why weak passwords are riskt and strong passwords are needed. 
+The project uses John the ripper (JTR), Johnny, and NetworkWalks to extract hashes from locked PDFs and crack them, to show why weak passwords are risky and strong passwords are needed. 
 
 
 
