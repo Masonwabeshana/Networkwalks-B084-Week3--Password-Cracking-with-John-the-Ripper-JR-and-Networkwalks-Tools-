@@ -44,7 +44,7 @@ John the ripper was installed to
 
 # Tools Used
 
-| John the ripper (JTR) , Johnny, networkwallks hash calculator and networkwalks password cracker & windows pc.
+| John the ripper (JTR) , Johnny, networkwallks hash calculator and networkwalks password cracker & windows pc|
 
 
 
