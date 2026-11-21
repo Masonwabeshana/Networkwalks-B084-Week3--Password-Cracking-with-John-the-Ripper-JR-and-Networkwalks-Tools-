@@ -64,6 +64,10 @@ Step 2- Use Nteworkwalks tools
 
 **Tool:** John the ripper (JTR) , Johnny, networkwallks hash calculator and networkwalks password cracker & windows pc|
 
+# Evidence collected
+
+
+
 
 
 
