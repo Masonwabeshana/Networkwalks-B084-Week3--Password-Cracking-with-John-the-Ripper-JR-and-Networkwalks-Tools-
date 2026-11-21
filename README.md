@@ -40,16 +40,18 @@ Both JTR and johnny GUI were downloaded from the offical website, and installed 
 
 
 
-Step 2- Use Networkwalks tools
+Step 2- Use networkwalks tools
 
-The encrypted PDF files were downloaded to Windows PC, uploaded to the networkwalks Hashing Calculator to get their hash values, and those hashes were then loaded into the Networkwalks Password Cracker to recover passwords.
+The encrypted PDF files were downloaded to windows PC, uploaded to the networkwalks Hashing Calculator to get their hash values, and those hashes were then loaded into the Networkwalks Password Cracker to recover passwords.
 
 
-**Tool:** John the ripper (JTR) , Johnny, networkwallks hash calculator and networkwalks password cracker & windows pc|
+**Tool:** John the ripper(JTR), Johnny, networkwallks hash calculator and networkwalks password cracker & windows pc|
 
 # Evidence collected
 
-Three locked PDF files and their recovered passwords
+A total of 6 PDF files had to be cracked. 3 were cracked using John the Ripper(JTR), and the other 3 were cracked using Networkwalks Hashing Calculator and Password Cracker.
+
+Using JTR
 
 PDF 1
 
