@@ -12,7 +12,7 @@ are risky and strong passwords are needed.
 WK3-PM1 : Password cracking with John the ripper (JTR) and johnny .
 
 
-WK3-PM2 : Password cracking using networkwalks tools ( password hashing calculator & password cracking)
+WK3-PM2 : Password cracking using networkwalks tools ( password hashing calculator & password cracker)
 
 ## Objectives
 
