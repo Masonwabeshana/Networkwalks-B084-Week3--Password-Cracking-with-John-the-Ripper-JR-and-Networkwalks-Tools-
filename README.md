@@ -36,7 +36,7 @@ The purpose of this lab is to demonstrate how encrypted documents store password
 
 Step 1 - Install John the ripper (JTR) and john 
 
-Both JTR and johnny GUI were downloaded from the offical website, and installed into a windows pc. Johnny GUI acted as the GUI front-end for the JTR.
+Both JTR and johnny GUI were downloaded from the offical website, and installed into a windows pc. Johnny GUI acted as the graphic user interface (GUI) front-end for the JTR.
 
 
 
