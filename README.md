@@ -68,6 +68,13 @@ Password for Encrypted PDF file 3
 ![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week3--Password-Cracking-with-John-the-Ripper-JR-and-Networkwalks-Tools-/blob/e0d18cb67750a10a67eaa6e58421179fa1a49896/password%203.png)
 
 
+Using Networkwalks Password Cracker
+
+Password for Encrypted PDF file 1 
+
+![image alt](https://github.com/Masonwabeshana/Networkwalks-B084-Week3--Password-Cracking-with-John-the-Ripper-JR-and-Networkwalks-Tools-/blob/b465f434fffc1d67c5f25845c2fb86e216b73629/Locked%20PDF%201%20craccked.png)
+
+
 # Observations
 
 Every file has it's own unique hash, a long scrambled code that works like a fingerprint. It proves that the file has not been changed, and it can be used to find the password of an encrypted file. Documents with weak passwords are easy to crack, so using a strong password makes your document more secure.
