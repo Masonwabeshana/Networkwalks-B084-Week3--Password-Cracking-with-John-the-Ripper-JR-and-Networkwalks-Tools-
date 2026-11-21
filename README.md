@@ -41,3 +41,10 @@ The main objectives of this project are to:
 John the ripper was installed to 
 
 **Tool:** John th ripper 
+
+### 3. Tools Used
+
+| John the ripper (JTR) , Johnny, networkwallks hash calculator and networkwalks password cracker & windows pc.
+
+
+
