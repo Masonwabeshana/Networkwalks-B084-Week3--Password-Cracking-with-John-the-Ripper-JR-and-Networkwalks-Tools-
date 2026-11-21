@@ -30,6 +30,8 @@ important for protection.
 
 # Tasks completed
 WK3-PM1 : Pasword cracking with John the ripper (JTR) and john.
+
+
 WK3-PM2 : Pasword cracking using networkwalks tools ( password hash & password cracking)
 
 ## Objectives
@@ -44,11 +46,7 @@ The main objectives of this project are to:
 
 John the ripper was installed to 
 
-**Tool:** John th ripper 
-
-# Tools Used
-
-| John the ripper (JTR) , Johnny, networkwallks hash calculator and networkwalks password cracker & windows pc|
+**Tool:** John the ripper (JTR) , Johnny, networkwallks hash calculator and networkwalks password cracker & windows pc|
 
 
 
