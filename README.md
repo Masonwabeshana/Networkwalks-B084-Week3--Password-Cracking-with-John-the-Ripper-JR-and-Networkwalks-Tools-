@@ -73,9 +73,7 @@ Step 2- Use Nteworkwalks tools
 
 # Observations
 
-Each and every file has it's own hash, that ensures that a document was unchanged. Hashes can be used as fingerprints in trying to match nd finding password for encrypted files. 
-Encrypted documents with weak passwords are more prone to being cracked. Hence, providing a strong password can help enhance your document security.
-
+Every file has it's own unique hash, a long scrambled code that works like a fingerprint. It proves that the file has not been changed, and it can be used to find the password of an encrypted file. Documents with weak passwords are easy to crack, so using a strong password makes your document more secure.
 
 
 
