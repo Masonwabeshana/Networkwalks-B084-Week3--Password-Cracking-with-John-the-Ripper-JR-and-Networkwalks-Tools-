@@ -28,6 +28,10 @@ from that hash. Both tools run in your web browser, so you do not need to instal
 This lab helps you understand how password cracking works step by step and why strong passwords are
 important for protection.
 
+# Tasks completed
+WK3-PM1 : Pasword cracking with John the ripper (JTR) and john.
+WK3-PM2 : Pasword cracking using networkwalks tools ( password hash & password cracking)
+
 ## Objectives
 
 The main objectives of this project are to:
