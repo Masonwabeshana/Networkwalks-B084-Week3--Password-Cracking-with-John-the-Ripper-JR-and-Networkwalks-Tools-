@@ -68,6 +68,10 @@ Step 2- Use Nteworkwalks tools
 
 
 
+# Observations
+
+
+
 
 
 
