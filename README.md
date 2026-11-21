@@ -73,7 +73,7 @@ Step 2- Use Nteworkwalks tools
 
 # Observations
 
-
+Encrypted documents with weak passwords can easily be cracked. Hence, providing a strong password can help enhance your document security.
 
 
 
