@@ -73,7 +73,8 @@ Step 2- Use Nteworkwalks tools
 
 # Observations
 
-Encrypted documents with weak passwords can easily be cracked. Hence, providing a strong password can help enhance your document security.
+Each and every file has it's own hash, that ensures that a document was unchanged. Hashes can be used as fingerprints in trying to match nd finding password for encrypted files. 
+Encrypted documents with weak passwords are more prone to being cracked. Hence, providing a strong password can help enhance your document security.
 
 
 
