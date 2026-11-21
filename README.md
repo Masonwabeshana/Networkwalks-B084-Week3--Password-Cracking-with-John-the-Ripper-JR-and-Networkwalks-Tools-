@@ -87,6 +87,8 @@ Password for Encrypted PDF file 3
 
 Every file has it's own unique hash, a long scrambled code that works like a fingerprint. It proves that the file has not been changed, and it can be used to find the password of an encrypted file. Documents with weak passwords are easy to crack, so using a strong password makes your document more secure.
 
+# Conclusion
 
+This project used John the ripper, Johnny, and networkwalks tools to crack 6 encrypted PDF files by extracting their hashes and recovering their passwords. It showed that every file has a unique hash fingerprint, and that weak passwords can be cracked quickly while strong passwords are much harder to crack. Therefore, document security depends on using strong passwords, because hashing alone does not protect a weak password.
 
 
